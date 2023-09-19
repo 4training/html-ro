@@ -1,0 +1,166 @@
+{
+    "language_code": "ro",
+    "english_name": "Romanian",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "Povestea lui Dumnezeu (5 degete)",
+            "filename": "Povestea_lui_Dumnezeu_(5_degete).html",
+            "version": "2.1"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Povestea lui Dumnezeu (primul \u015fi ultimul sacrificu)",
+            "filename": "Povestea_lui_Dumnezeu_(primul_\u015fi_ultimul_sacrificu).html",
+            "version": "2.2",
+            "pdf": "Povestea_lui_Dumnezeu_(primul_\u015fi_ultimul_sacrificu).pdf"
+        },
+        {
+            "page": "Baptism",
+            "title": "Botez",
+            "filename": "Botez.html",
+            "version": "2.1",
+            "pdf": "Botez.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Rug\u0103ciunea",
+            "filename": "Rug\u0103ciunea.html",
+            "version": "1.1"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Pa\u015fi spre iertare",
+            "filename": "Pa\u015fi_spre_iertare.html",
+            "version": "1.1",
+            "pdf": "Pa\u015fi_spre_iertare.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "M\u0103rturisirea p\u0103catelor \u015fi poc\u0103in\u0163a",
+            "filename": "M\u0103rturisirea_p\u0103catelor_\u015fi_poc\u0103in\u0163a.html",
+            "version": "1.0",
+            "pdf": "M\u0103rturisirea_p\u0103catelor_\u015fi_poc\u0103in\u0163a.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Timp cu Dumnezeu",
+            "filename": "Timp_cu_Dumnezeu.html",
+            "version": "0.9"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Auzindu-l pe Dumnezeu",
+            "filename": "Auzindu-l_pe_Dumnezeu.html",
+            "version": "1.2",
+            "pdf": "Auzindu-l_pe_Dumnezeu.pdf"
+        },
+        {
+            "page": "Church",
+            "title": "Biserica",
+            "filename": "Biserica.html",
+            "version": "2.0",
+            "pdf": "Biserica.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Vindecare",
+            "filename": "Vindecare.html",
+            "version": "1.0",
+            "pdf": "Vindecare.pdf"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Povestea mea cu Dumnezeu",
+            "filename": "Povestea_mea_cu_Dumnezeu.html",
+            "version": "1.1",
+            "pdf": "Povestea_mea_cu_Dumnezeu.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Sugestii spre citirea Bibliei",
+            "filename": "Sugestii_spre_citirea_Bibliei.html",
+            "version": "2.0",
+            "pdf": "Sugestii_spre_citirea_Bibliei.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Sugestii spre citirea Bibliei (\u015eapte povestiri pline de speran\u0163\u0103)",
+            "filename": "Sugestii_spre_citirea_Bibliei_(\u015eapte_povestiri_pline_de_speran\u0163\u0103).html",
+            "version": "2.0",
+            "pdf": "Sugestii_spre_citirea_Bibliei_(\u015eapte_povestiri_pline_de_speran\u0163\u0103).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Procesul-\u00een trei P\u0103r\u021bi",
+            "filename": "Procesul-\u00een_trei_P\u0103r\u021bi.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Desf\u0103\u0219urarea \u0219edin\u021belor de training",
+            "filename": "Desf\u0103\u0219urarea_\u0219edin\u021belor_de_training.html",
+            "version": "1.0",
+            "pdf": "Desf\u0103\u0219urarea_\u0219edin\u021belor_de_training.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Rug\u0103ciunea de fiecare zi",
+            "filename": "Rug\u0103ciunea_de_fiecare_zi.html",
+            "version": "1.0",
+            "pdf": "Rugaciunea_de_fiecare_zi.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "A dep\u0103\u015fi teama \u015fi m\u00e2nia",
+            "filename": "A_dep\u0103\u015fi_teama_\u015fi_m\u00e2nia.html",
+            "version": "1.0",
+            "pdf": "A_dep\u0103\u015fi_teama_\u015fi_m\u00e2nia.pdf"
+        },
+        {
+            "page": "Getting_Rid_of_Colored_Lenses",
+            "title": "Renun\u021b\u00e2nd la Ochelarii cu Lentile Colorate",
+            "filename": "Renun\u021b\u00e2nd_la_Ochelarii_cu_Lentile_Colorate.html",
+            "version": "1.0",
+            "pdf": "Renun\u021b\u00e2nd_la_Ochelarii_cu_Lentile_Colorate.pdf"
+        },
+        {
+            "page": "Family_and_our_Relationship_with_God",
+            "title": "Familia \u0219i Rela\u021bia noastr\u0103 cu Dumnezeu",
+            "filename": "Familia_\u0219i_Rela\u021bia_noastr\u0103_cu_Dumnezeu.html",
+            "version": "1.0",
+            "pdf": "Familia_\u0219i_Rela\u021bia_noastr\u0103_cu_Dumnezeu.pdf"
+        },
+        {
+            "page": "Overcoming_Negative_Inheritance",
+            "title": "Dep\u0103\u0219irea mo\u0219tenirii negative",
+            "filename": "Dep\u0103\u0219irea_mo\u0219tenirii_negative.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Forgiving_Step_by_Step:_Training_Notes",
+            "title": "Iertarea Pas cu Pas: Noti\u021be pentru antrenament",
+            "filename": "Iertarea_Pas_cu_Pas_Noti\u021be_pentru_antrenament.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Leading_Others_Through_Forgiveness",
+            "title": "Conducerea celorlal\u021bi prin iertare",
+            "filename": "Conducerea_celorlal\u021bi_prin_iertare.html",
+            "version": "1.1"
+        },
+        {
+            "page": "The_Role_of_a_Helper_in_Prayer",
+            "title": "Rolul unui ajutor \u00een rug\u0103ciune",
+            "filename": "Rolul_unui_ajutor_\u00een_rug\u0103ciune.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Patru tipuri de ucenici",
+            "filename": "Patru_tipuri_de_ucenici.html",
+            "version": "1.1",
+            "pdf": "Patru_tipuri_de_ucenici.pdf"
+        }
+    ]
+}
